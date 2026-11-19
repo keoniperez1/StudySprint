@@ -77,7 +77,7 @@ API References
 ## Wireframes
 
 ### Home Dashboard
-![Home Dashboard](wireframes/Homepage_studysprint.png)
+![Home Dashboard](wireframes/homepage_studysprint.png)
 
 ### Study Tasks
 ![Study Tasks](wireframes/StudyTasks.png)
