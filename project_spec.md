@@ -73,3 +73,20 @@ API References
 - OpenTDB documentation: https://opentdb.com/api_config.php
 - Get categories: https://opentdb.com/api_category.php
 - Example quiz request: https://opentdb.com/api.php?amount=5&type=multiple
+
+## Wireframes
+
+### Home Dashboard
+![Home Dashboard](wireframes/Homepage_studysprint.png)
+
+### Study Tasks
+![Study Tasks](wireframes/StudyTasks.png)
+
+### Flashcards
+![Flashcards](wireframes/Flashcards.png)
+
+### Practice Quiz
+![Practice Quiz](wireframes/PracticeQuiz.png)
+
+### Study Progress
+![Study Progress](wireframes/StudyProgress.png)
